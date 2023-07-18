@@ -1,0 +1,19 @@
+.red_back {
+    background-color: lightpink;
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+  }
+
+.big_cool {
+    font-size: 24px;
+}
+
+#large_no_back {
+    font-size: 36px;
+    color: blue;
+}
+
+#large_green_back {
+    background-color: lightgreen;
+    font-size: 24px;
+    font-weight: 700;
+}
